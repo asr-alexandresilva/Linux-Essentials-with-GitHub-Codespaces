@@ -1,0 +1,5 @@
+10 canetas azuis,
+5 canetas vermelhas,
+30 canetas pretas,
+11 grampeador,
+
